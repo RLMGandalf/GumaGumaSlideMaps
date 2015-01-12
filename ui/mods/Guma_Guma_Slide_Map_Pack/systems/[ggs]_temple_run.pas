@@ -1,6 +1,6 @@
 {
     "name": "[GGS] Temple Run",
-	"creator": "Yurigasaki",
+	"creator": "Pazoki",
 	"version": "1",
 	"date": "2015/01/12",
 	"description": "K1S3L OP, Please Nerf, -Nosebreaker",
