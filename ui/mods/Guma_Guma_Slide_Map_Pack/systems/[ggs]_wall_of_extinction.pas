@@ -4,6 +4,10 @@
 	"version": "1",
 	"date": "2015/01/25",
 	"description": "Elodea Likes Cats",
+    "players": [
+            4,
+            8
+    ],
     "planets": [
         {
             "name": "Yuri Kuma!",
