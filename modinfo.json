@@ -4,13 +4,14 @@
     "display_name": "Guma Guma Slide Map Pack",
     "description": "Map Pack for Guma Guma Slide.",
     "author": "Yuri Bros",
-    "version": "1.0",
-    "build": "76557",
-    "date": "2015/01/12",
+    "version": "1.1",
+    "build": "76766",
+    "date": "2015/01/25",
     "signature": "not yet implemented",
     "forum": "https://forums.uberent.com/threads/ggs-maps.67139/",
     "category": [
-        "ui"
+        "ui",
+		"maps"
     ],
     "load_planet": [
         "coui://ui/mods/Guma_Guma_Slide_Map_Pack/maplist.js"
