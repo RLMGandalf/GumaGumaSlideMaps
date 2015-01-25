@@ -1,5 +1,5 @@
 {
-    "name": "[GGS] Wall of Extinction1",
+    "name": "[GGS] Wall of Extinction",
 	"creator": "Yurigasaki",
 	"version": "1",
 	"date": "2015/01/25",
